@@ -1,6 +1,6 @@
 # Projeto de conclusão de disciplina (Ciência de Dados)
 
-- **Faculdade**: [UNINOVE](https://www.uninove.br);
+- **Universidade**: [UNINOVE](https://www.uninove.br);
 - **Curso**: Ciências da Computação;
 - **Professor**: [Dr. José Eduardo Storopoli](https://storopoli.io);
 
@@ -8,11 +8,11 @@
 
 1. Rodrigo Fernandes Pimenta **RA:** 3018104102;
 2. Danilo Moreira Lopes **RA:** 3018102121;
-3. Pâmela Lira Gonçalves **RA:** 418100775.
+3. Pâmela Gonçalves Lira **RA:** 418100775.
 
 ## Objetivo:
 
-- Fazer análise em um `dataset`, utilizando as técnicas e conhecimentos obtidos, através da displina ministrada, com o  intuito principal de fixação e domínio do conteúdo.
+- Fazer análise em um *dataset*, utilizando as técnicas e conhecimentos obtidos, através da displina ministrada, com o  intuito principal de fixação e domínio do conteúdo.
 
 ## Lista de passos da avaliação:
 
